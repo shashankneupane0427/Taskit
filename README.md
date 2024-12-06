@@ -1,6 +1,6 @@
 ﻿# Taskit
 
-![Taskit Logo](./path/to/Taskit-react.png)
+<img src="/public/Taskit-react.PNG" alt="Taskit Screenshot" width="600" />
 
 Taskit is a simple and elegant to-do list application built with React. It allows users to manage their daily tasks efficiently with features like adding, editing, deleting, and marking tasks as completed.
 
