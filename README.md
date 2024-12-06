@@ -1,5 +1,7 @@
 ﻿# Taskit
 
+![Taskit Logo](./path/to/Taskit-react.png)
+
 Taskit is a simple and elegant to-do list application built with React. It allows users to manage their daily tasks efficiently with features like adding, editing, deleting, and marking tasks as completed.
 
 ## Features
@@ -34,31 +36,24 @@ Follow these steps to set up and run the project locally:
 
 1.  **Clone the repository**:
     
-    bash
-    
-    Copy code
-    
-    `git clone https://github.com/your-username/Taskit.git
-    cd Taskit` 
+    ```bash
+    git clone https://github.com/your-username/Taskit.git
+    cd Taskit
+    ```
     
 2.  **Install dependencies**:
     
-    bash
-    
-    Copy code
-    
-    `npm install` 
+    ```bash
+    npm install
+    ```
     
 3.  **Start the development server**:
     
-    bash
-    
-    Copy code
-    
-    `npm start` 
+    ```bash
+    npm start
+    ```
     
 4.  Open your browser and navigate to `http://localhost:3000`.
-    
 
 ## Usage
 
@@ -70,11 +65,8 @@ Follow these steps to set up and run the project locally:
 
 ## Project Structure
 
-php
-
-Copy code
-
-`Taskit/
+```php
+Taskit/
 ├── public/
 ├── src/
 │   ├── components/
@@ -83,7 +75,8 @@ Copy code
 │   ├── App.js           # Main component
 │   └── index.js         # Entry point
 ├── package.json         # Project dependencies and scripts
-└── README.md            # Project documentation` 
+└── README.md            # Project documentation
+```
 
 ## Deployment
 
@@ -91,14 +84,11 @@ To deploy the project, follow these steps:
 
 1.  **Build the app**:
     
-    bash
-    
-    Copy code
-    
-    `npm run build` 
+    ```bash
+    npm run build
+    ```
     
 2.  Use any static site hosting service like [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), or [GitHub Pages](https://pages.github.com/) to deploy the `build` folder.
-    
 
 ## Future Improvements
 
